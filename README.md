@@ -3,13 +3,15 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [GitHub Repository](GitHub Repository)
+- 🎯 2021 Goal - Become **A FULL STACK DEVELOPER**
+
+- 👨‍💻 All of my projects are available at (GitHub Repository)
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **omkar.patil311428@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/omkar-patil3114/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAC2c94gBQuy3BP4jgF3JTGnsfv2fyIErlDM,1618209864449)/](https://www.linkedin.com/in/omkar-patil3114/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAC2c94gBQuy3BP4jgF3JTGnsfv2fyIErlDM,1618209864449)/)
+- 📄 Know about my experiences [Omkar_Anil_Patil_2020_Resume.pdf](https://github.com/Omkar3114/Omkar3114/files/6452281/Omkar_Anil_Patil_2020_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
