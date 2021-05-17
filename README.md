@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omkar.patil311428@gmail.com**
 
-- 📄 Know about my experiences [Omkar_Anil_Patil_2020_Resume.pdf](https://github.com/Omkar3114/Omkar3114/files/6452281/Omkar_Anil_Patil_2020_Resume.pdf)
+- 📄 Know about my experiences [Omkar_Anil Patil_2020.pdf](https://github.com/Omkar3114/Omkar3114/files/6495817/Omkar_Anil.Patil_2020.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
