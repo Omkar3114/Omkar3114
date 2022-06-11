@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Omkar Anil Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Cloud engineer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Azure Cloud**
 
-- 🎯 2021 Goal - Become **A FULL STACK DEVELOPER**
+- 🎯 2021 Goal - Become **Cloud Engineer**
 
 - 👨‍💻 All of my projects are available at (GitHub Repository)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Citrix Xenapp | Citrix XenDesktop | Azure**
 
 - 📫 How to reach me **omkar.patil311428@gmail.com**
 
-- 📄 Know about my experiences [Omkar_Anil Patil_2020.pdf](https://github.com/Omkar3114/Omkar3114/files/6495817/Omkar_Anil.Patil_2020.pdf)
+- 📄 Know about my experiences [Omkar_Anil Patil_2020.pdf](https://github.com/Omkar3114/Omkar3114/files/6495817/Omkar Anil Patil.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
