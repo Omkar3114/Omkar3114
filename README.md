@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omkar Anil Patil</h1>
-<h3 align="center">A passionate Cloud engineer from India</h3>
+<h3 align="center">A passionate DevOps from India</h3>
 
-- 🌱 I’m currently learning **Azure Cloud**
+- 🌱 I’m currently learning **DevOps**
 
-- 🎯 2021 Goal - Become **Cloud Engineer**
+- 🎯 2026 Goal - Become **DevOps Engineer**
 
 - 👨‍💻 All of my projects are available at (GitHub Repository)
 
-- 💬 Ask me about **Citrix Xenapp | Citrix XenDesktop | Azure**
+- 💬 Ask me about **DevOps | Citrix Xenapp | Citrix XenDesktop | Azure**
 
 - 📫 How to reach me **omkar.patil311428@gmail.com**
 
